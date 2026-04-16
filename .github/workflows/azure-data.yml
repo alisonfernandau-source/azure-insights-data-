@@ -30,12 +30,12 @@ jobs:
         env:
           AZURE_PAT: ${{ secrets.AZURE_PAT }}
         run: |
-          python script1.py
+          python AzureCursorGitHub.py
 
       # 5. Ejecutar script 2 (métricas y snapshot)
       - name: Run script 2 (Snapshot)
         run: |
-          python script2.py
+          python InfoCortesGitHub.py
 
       # 6. Guardar cambios en el repo (CSV actualizados)
       - name: Commit and push changes
