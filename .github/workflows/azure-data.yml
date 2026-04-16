@@ -1,0 +1,47 @@
+name: Azure DevOps Data Pipeline
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # 2:00 AM Colombia (UTC-5)
+  workflow_dispatch:
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clonar el repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Instalar Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Instalar dependencias
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 4. Ejecutar script 1 (Azure DevOps extracción)
+      - name: Run script 1 (Azure extraction)
+        env:
+          AZURE_PAT: ${{ secrets.AZURE_PAT }}
+        run: |
+          python script1.py
+
+      # 5. Ejecutar script 2 (métricas y snapshot)
+      - name: Run script 2 (Snapshot)
+        run: |
+          python script2.py
+
+      # 6. Guardar cambios en el repo (CSV actualizados)
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Actualización automática de datos" || echo "No changes to commit"
+          git push
