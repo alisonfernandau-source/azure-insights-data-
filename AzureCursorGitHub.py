@@ -172,4 +172,10 @@ ruta_csv = "src/data/user_stories.csv"
 
 df.to_csv(ruta_csv, index=False, encoding='utf-8-sig', sep=';')
 
+fecha = datetime.now().strftime("%Y%m%d")
+
+# Archivo histórico
+ruta_excel_hist = f"data/user_stories_{fecha}.xlsx"
+df.to_excel(ruta_excel_hist, index=False)
+
 print(f"Datos guardados en {ruta_csv}")
