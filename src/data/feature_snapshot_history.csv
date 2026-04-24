@@ -191,3 +191,27 @@
 2026-04-23,53695.0,Migración  - Migrar datos Circulación y Transito,10,1,2,6,0.1,2,0,1.0,False,False
 2026-04-23,53696.0,Migración - Migrar Multas de Transito,5,2,0,3,0.4,0,0,1.0,False,True
 2026-04-23,54085.0,Migración - Palmira Predial LO 2024,10,3,1,4,0.3,1,0,40.0,False,False
+2026-04-24,47100.0,Migración - Migrar Tributo Predial - Ibague,6,0,0,6,0.0,0,0,,False,True
+2026-04-24,47109.0,Migración - Migrar Tributo Predial - Popayán,13,4,0,0,0.31,0,0,114.0,False,True
+2026-04-24,47172.0,Migración - Cargar documentos PDF y asociarlos a registros de Multas de Policia,3,0,0,3,0.0,0,0,,False,True
+2026-04-24,47406.0,Migración - Cargar documentos PDFs y asociarlos a registros  de Circulación y Tránsito,2,0,0,2,0.0,0,0,,False,True
+2026-04-24,47410.0,Migración - Cargar documentos PDFs y asociarlos a registros de Multas de Tránsito,3,0,0,3,0.0,0,0,,False,True
+2026-04-24,47502.0,Implementar MVP - Automatización de Digitalización de Expedientes - Popayán,4,4,0,0,1.0,0,0,192.0,False,False
+2026-04-24,47503.0,Implementar MVP automatización de digitalización y clasificación de documentos,15,11,4,0,0.73,4,1,63.0,False,False
+2026-04-24,47504.0,Implementar MVP automatización de diligenciamiento de matrices,2,1,1,0,0.5,1,1,,False,False
+2026-04-24,50615.0,Migración - Cargar documentos PDF y asociarlos a registros de Predial Popayán,7,4,1,0,0.57,1,0,114.0,False,False
+2026-04-24,50651.0,Migración - Migrar tributo ICA - Popayán,8,2,0,0,0.25,0,0,114.0,False,True
+2026-04-24,50655.0,Migración - Cargar documentos PDF y asociarlos a registros de ICA Popayán,2,0,0,0,0.0,0,0,114.0,False,True
+2026-04-24,53309.0,Automatización de Infraestructura,8,6,1,1,0.75,1,0,,False,False
+2026-04-24,53311.0,Editor del Prompts,4,2,1,1,0.5,1,0,,False,False
+2026-04-24,53313.0,Sandbox de Pruebas (Testing),3,0,0,3,0.0,0,0,,False,True
+2026-04-24,53530.0,Auditoría Atlas,5,0,2,3,0.0,2,0,,False,False
+2026-04-24,53531.0,Calculadora Pre-ejecución,1,0,0,1,0.0,0,0,,False,True
+2026-04-24,53537.0,Gestión de Fuentes (Inputs),3,0,1,2,0.0,1,0,,False,False
+2026-04-24,53539.0,Calendarizar Ejecuciones,1,0,0,1,0.0,0,0,,False,True
+2026-04-24,53541.0,Calculadora Pre-ejecución,2,0,0,2,0.0,0,0,,False,True
+2026-04-24,53542.0,Gestión de Errores Inteligente,3,0,0,3,0.0,0,0,,False,True
+2026-04-24,53549.0,Reprocesamiento,1,0,0,1,0.0,0,0,,False,True
+2026-04-24,53695.0,Migración  - Migrar datos Circulación y Transito,10,2,2,6,0.2,2,0,2.0,False,False
+2026-04-24,53696.0,Migración - Migrar Multas de Transito,5,2,0,3,0.4,0,0,2.0,False,True
+2026-04-24,54085.0,Migración - Palmira Predial LO 2024,10,5,1,3,0.5,1,0,41.0,False,False
