@@ -1132,10 +1132,10 @@
 56672;Bug;Revision Bug Vista SILIN deuda capital 0;Jesus Gabriel Castro Villegas;56322;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;12/05/2026 21:39:21;12/05/2026 18:57:49;;;12/05/2026 19:03:42;;;;2;3 - Medium
 56709;Task;enriquecimiento Emcali;anatoly.cerchiaro;56652;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;13/05/2026 13:37:27;13/05/2026 13:36:25;;;13/05/2026 13:37:27;;5.0;;2;
 56710;Task;Enriquecimiento con data MongoDB;anatoly.cerchiaro;56652;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;14/05/2026 21:58:33;13/05/2026 13:37:18;13/05/2026 13:37:33;;14/05/2026 21:58:12;;6.0;;2;
-56711;User Story;Exploración de expedientes de milagro 1 fase 2 (3041);jose.herrera;54085;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;14/05/2026 13:46:26;13/05/2026 13:43:11;13/05/2026 20:38:50;;;;;;1;
-56719;Spike;Equipo de Datos (Mayo 2026-S1) Assessment periódico;jose.herrera;56755;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;14/05/2026 15:24:31;13/05/2026 17:19:16;;;;;;;;
+56711;User Story;Exploración de expedientes de milagro 1 fase 2 (3041);jose.herrera;54085;Active;SILIN\Squad - Migracion;Palmira-Predial;SILIN\Iteration-2026-6;15/05/2026 13:40:53;13/05/2026 13:43:11;13/05/2026 20:38:50;;;;;;1;
+56719;Spike;Equipo de Datos (Mayo 2026-S1) Assessment periódico;jose.herrera;56755;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;15/05/2026 13:43:04;13/05/2026 17:19:16;;;;;;;;
 56729;Task;Assesstment Alejandro Remolina;jose.herrera;56719;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;13/05/2026 20:35:11;13/05/2026 20:34:29;;;13/05/2026 20:35:11;;;;2;
 56730;Task;Assesstment Anatoly Cerchiaro;jose.herrera;56719;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;13/05/2026 20:35:12;13/05/2026 20:34:39;;;13/05/2026 20:35:12;;;;2;
-56731;Task;Assesstment Lili Valencia;jose.herrera;56719;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;13/05/2026 20:35:09;13/05/2026 20:34:48;;;;;;;2;
+56731;Task;Assesstment Lili Valencia;jose.herrera;56719;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;15/05/2026 13:42:53;13/05/2026 20:34:48;;;15/05/2026 13:42:53;;;;2;
 56753;User Story;Popayan Predial [SILIN+QA] Disponibilización de deuda, títulos y expedientes en DEV - lote 2;Jesus Gabriel Castro Villegas;47109;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;14/05/2026 15:22:49;14/05/2026 13:37:35;14/05/2026 13:44:18;;;;;;1;
 56755;Feature;Migración - Mejora continua;;;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-6;14/05/2026 15:03:51;14/05/2026 15:03:50;;;;;;;2;
