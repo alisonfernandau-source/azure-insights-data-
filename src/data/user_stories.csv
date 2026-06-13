@@ -1212,7 +1212,7 @@
 57249;Task;Entrega a QA;jose.herrera;57198;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;10/06/2026 20:12:17;01/06/2026 13:40:36;;;;;;;2;
 57250;Task;Revision QA;marisleidy.mora;57198;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;10/06/2026 20:12:17;01/06/2026 13:40:40;;;;;;;2;
 57272;Task;Consolidación ENERO y FEBRERO;Alejandro Remolina;57274;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;11/06/2026 14:15:44;01/06/2026 19:27:22;;;02/06/2026 13:43:21;;;;2;
-57274;User Story;PALMIRA / MULTAS TRANSITO Pre Hallazgos 1ra Iteración;Alejandro Remolina;54085;Paused;SILIN\Squad - Migracion;"Alejandro Remolina; Alison Urbano; Carlos Aldana; rojo";SILIN\Iteration-2026-8;11/06/2026 14:15:09;01/06/2026 19:30:18;01/06/2026 19:44:29;;;;;;1;
+57274;User Story;PALMIRA / MULTAS TRANSITO Pre Hallazgos 1ra Iteración;jose.herrera;54085;Paused;SILIN\Squad - Migracion;"Alejandro Remolina; Alison Urbano; Carlos Aldana; rojo";SILIN\Iteration-2026-8;12/06/2026 13:31:21;01/06/2026 19:30:18;01/06/2026 19:44:29;;;;;;1;
 57284;User Story;PALMIRA / Circulación y Tránsito - Validación Final y Consolidación de Reportes de Cierre;;54085;Ready;SILIN\Squad - Migracion;"azul; Jose Herrera; Palmira-CyT";SILIN\Iteration-2026-8;11/06/2026 14:42:59;02/06/2026 19:41:18;;;;;;;1;
 57331;Task;Consolidación Mongo;Alejandro Remolina;57335;Closed;SILIN\Squad - Migracion;Alejandro Remolina;SILIN\Iteration-2026-7;10/06/2026 19:56:31;04/06/2026 13:55:03;;;10/06/2026 19:56:31;;;;2;
 57335;Spike;PALMIRA / PREDIAL Hallazgos 1ra Iteración - Coleccion 12K;Alejandro Remolina;54085;Closed;SILIN\Squad - Migracion;"Anatoly Cerchiaro; Palmira-Predial; rojo";SILIN\Iteration-2026-7;10/06/2026 19:56:37;04/06/2026 13:56:12;04/06/2026 13:57:16;;10/06/2026 19:56:37;;;;;
@@ -1254,5 +1254,8 @@
 57440;Task;Migración Relacional (SILIN) y QA;Jesus Gabriel Castro Villegas;57443;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;11/06/2026 14:08:22;10/06/2026 20:58:27;;;;;;;2;
 57441;Task;QA Migración SILIN;george.quintero;57443;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;11/06/2026 14:08:46;10/06/2026 20:58:27;;;;;;;2;
 57442;Task;Migración Relacional (SILIN) y QA;Ruben Jaramillo;57443;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;11/06/2026 14:08:33;10/06/2026 20:58:27;;;;;;;2;
-57443;User Story;PALMIRA / PREDIAL  - Procesamiento Migración Predial Colección 12K +5 excluidos (Alcance QA/STG/PRD 1ra Iteración);Carlos Andres Aldana;54085;QA Certification;SILIN\Squad - Migracion;"Gabriel Castro; George Quintero; rojo; Ruben Jaramillo";SILIN\Iteration-2026-8;11/06/2026 14:42:52;10/06/2026 20:59:14;11/06/2026 14:42:07;;;;;;1;
+57443;User Story;PALMIRA / PREDIAL  - Procesamiento Migración Predial Colección 12K +5 excluidos (Alcance QA/STG/PRD 1ra Iteración);Carlos Andres Aldana;54085;Production;SILIN\Squad - Migracion;"Gabriel Castro; George Quintero; rojo; Ruben Jaramillo";SILIN\Iteration-2026-8;12/06/2026 13:32:41;10/06/2026 20:59:14;11/06/2026 14:42:07;12/06/2026 13:32:37;;;;;1;
 57454;Spike;PALMIRA / EXP MILAGRO 1 Revisión procesamiento expedientes colección 3041;Alison Urbano;54085;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;11/06/2026 17:23:33;11/06/2026 14:24:51;;;;;;;;
+57469;Task;Reunion equipo;Alejandro Remolina;57454;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;12/06/2026 13:26:17;12/06/2026 13:25:58;;;;;;;2;
+57470;Task;Crear Plan tareas y esfuerzo;Alejandro Remolina;57454;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;12/06/2026 13:30:28;12/06/2026 13:29:36;;;;;;;2;
+57471;Task;crear tareas;jose.herrera;57274;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;12/06/2026 13:32:12;12/06/2026 13:31:54;;;;;;;2;
