@@ -1259,4 +1259,7 @@
 57469;Task;Reunion equipo;Alejandro Remolina;57454;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;12/06/2026 13:26:17;12/06/2026 13:25:58;;;;;;;2;
 57471;Task;crear tareas;jose.herrera;57274;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;12/06/2026 13:32:12;12/06/2026 13:31:54;;;;;;;2;
 57488;User Story;Extracción de TE y vigencias para pendientes coleccion 3041;Alejandro Remolina;;Ready;SILIN\Squad - Migracion;Gabriel Castro;SILIN\Iteration-2026-8;16/06/2026 14:16:17;16/06/2026 14:10:45;;;;;;;1;
-57489;Spike;Optimización procesamiento SILIN para ambiente de PROD;Jesus Gabriel Castro Villegas;;New;SILIN\Squad - Migracion;Ruben Jaramillo;SILIN\Iteration-2026-8;16/06/2026 14:30:26;16/06/2026 14:30:25;;;;;;;;
+57489;Spike;Optimización procesamiento SILIN para ambiente de PROD;Jesus Gabriel Castro Villegas;;New;SILIN\Squad - Migracion;Juan Pablo Alvarez;SILIN\Iteration-2026-8;17/06/2026 13:36:13;16/06/2026 14:30:25;;;;;;;;
+57530;Task;Construir script para descargar documentos;Alejandro Remolina;57488;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;17/06/2026 13:45:13;17/06/2026 13:41:13;;;;;;;2;
+57531;Task;Extraer vigencias de documentos con procesamiento OCR (revisar con Sebastián Granda);Alejandro Remolina;57488;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;17/06/2026 13:46:42;17/06/2026 13:42:20;;;;;;;2;
+57532;Task;Reunión Sebastian Granda;;57488;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-8;17/06/2026 13:47:06;17/06/2026 13:47:06;;;;;;;2;
