@@ -1284,3 +1284,5 @@
 57833;Task;Ejecución Fase G (pipeline end-to-end);anatoly.cerchiaro;47094;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;02/07/2026 18:19:52;02/07/2026 18:19:51;02/07/2026 18:19:52;;;;;;2;
 57834;Task;Reporte final de migración;anatoly.cerchiaro;47094;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;02/07/2026 18:19:54;02/07/2026 18:19:53;02/07/2026 18:19:54;;;;;;2;
 57835;Task;Gestión Tributaria (BLOQUEANTE);anatoly.cerchiaro;47094;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;02/07/2026 18:19:55;02/07/2026 18:19:54;02/07/2026 18:19:55;;;;;;2;
+57875;Task;Migracion deuda bd y refresh de vistas de cartera;Ruben Jaramillo;57768;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;03/07/2026 20:23:35;03/07/2026 20:23:07;;;03/07/2026 20:23:35;;;;2;
+57879;Task;migracion expedientes y refresh vistas de expedientes;Ruben Jaramillo;57768;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;03/07/2026 20:24:25;03/07/2026 20:24:15;;;03/07/2026 20:24:25;;;;2;
