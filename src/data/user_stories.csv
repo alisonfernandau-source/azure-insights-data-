@@ -1303,3 +1303,6 @@
 58116;Task;Migracion deuda bd y refresh de vistas de cartera;Ruben Jaramillo;58083;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-10;11/07/2026 00:31:28;11/07/2026 00:30:29;;;11/07/2026 00:31:28;;;;2;
 58117;Task;migracion expedientes y refresh vistas de expedientes;Ruben Jaramillo;58083;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-10;11/07/2026 00:31:29;11/07/2026 00:31:07;;;11/07/2026 00:31:29;;;;2;
 58118;Bug;1 expediente rechazado;Ruben Jaramillo;58083;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-10;11/07/2026 00:33:33;11/07/2026 00:33:33;;;;;;;2;3 - Medium
+58125;Bug;(QA) Expedientes (dossier) con multiples actividades (dossier_stage) marcadas con `last_activity = true`;Jesus Gabriel Castro Villegas;;Closed;SILIN\Squad - Migracion;;SILIN\Iteration-2026-9;15/07/2026 14:52:22;15/07/2026 14:51:01;15/07/2026 14:51:26;15/07/2026 14:51:26;15/07/2026 14:51:26;;2.0;Fixed and verified;2;3 - Medium
+58126;Feature;Clasificación y extracción - Tributo Predial - Ibague;Alison Urbano;;Active;SILIN\Squad - Migracion;;SILIN\Iteration-2026-10;15/07/2026 15:54:35;15/07/2026 15:53:36;15/07/2026 15:54:35;;;;;;2;
+58127;User Story;Ibague - Extracción info documentos TE - GTE;;58126;New;SILIN\Squad - Migracion;;SILIN\Iteration-2026-10;15/07/2026 15:58:31;15/07/2026 15:58:31;;;;;;;1;
